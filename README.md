@@ -1,2 +1,2 @@
 # hello-world
-practice a repository
+practice a repository for CFG class
